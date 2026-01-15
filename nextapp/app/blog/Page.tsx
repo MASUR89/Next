@@ -6,7 +6,7 @@ const Page = () => {
     <div>  
         <h1>Blog Page </h1> 
         <p>Some new page</p>
-        <Image src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/396e9/MainBefore.jpg" alt="Blog Image" width={100} height={100} />
+        <Image src="https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/396e9/MainBefore.jpg" alt="Blog Image" width={500} height={100} />
         
     </div>
   );
